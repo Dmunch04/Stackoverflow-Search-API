@@ -2,6 +2,14 @@
 Search Stackoverflow posts with this Python API
 
 # Integrate
+Wanna use this API? Add this to your `requirements.txt`: (https://pip.pypa.io/en/stable/user_guide/#requirements-files)
+```
+git://github.com/Dmunch04/Stackoverflow-Search-API.git
+```
+Does it not work? Try this:
+```
+git+git://github.com/Dmunch04/Stackoverflow-Search-API.git
+```
 
 # Stackoverflow Search API:
 This is the attributes you can get from the class, StackOverflow:

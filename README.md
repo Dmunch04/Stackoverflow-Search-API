@@ -11,7 +11,7 @@ Does it not work? Try this:
 git+git://github.com/Dmunch04/Stackoverflow-Search-API.git
 ```
 
-# Stackoverflow Search API:
+# API:
 This is the attributes you can get from the class, StackOverflow:
 - title ; The title of the post
 - sender ; The author/sender of the post
